@@ -1,0 +1,12 @@
+Design (Algorithm)
+Start
+Read a, b, c values
+Compute d = b2 4ac
+if d > 0 then
+r1 = b+ sqrt (d)/(2*a)
+r2 = b sqrt(d)/(2*a)
+Otherwise if d = 0 then
+compute r1 = -b/2a, r2=-b/2a
+print r1,r2 values
+Otherwise if d < 0 then print roots are imaginary
+Stop
